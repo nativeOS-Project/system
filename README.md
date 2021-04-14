@@ -1,2 +1,0 @@
-# system
-nativeos system
